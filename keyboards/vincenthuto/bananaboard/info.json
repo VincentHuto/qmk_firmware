@@ -1,0 +1,12 @@
+{
+    "keyboard_name": "bananaboard",
+    "manufacturer": "VincentHuto",
+    "url": "",
+    "maintainer": "qmk",
+    "usb": {
+        "vid": "0x444D",
+        "pid": "0x3537",
+        "device_version": "0.0.1"
+    }
+    
+}
